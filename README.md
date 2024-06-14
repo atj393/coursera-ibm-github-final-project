@@ -1,2 +1,11 @@
-# coursera-ibm-github-final-project
-This repository provides a user-friendly, open-source simple interest calculator designed specifically for microfinance institutions and individuals with limited financial resources. It empowers users to calculate the interest on loans or savings accounts, promoting financial literacy and informed decision-making.
+# Simple Interest Calculator
+
+A calculator that calculates simple interest given principal, annual rate of interest, and time period in years.
+
+## Input:
+- p: principal amount
+- t: time period in years
+- r: annual rate of interest
+
+## Output:
+- simple interest = p * t * r
